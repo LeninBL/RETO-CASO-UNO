@@ -1,0 +1,27 @@
+.card {
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+
+.badge {
+    font-size: 0.9em;
+}
+
+
+.search-container {
+    margin-bottom: 20px;
+}
+
+.pagination-info {
+    margin-top: 10px;
+    font-size: 0.9em;
+}
